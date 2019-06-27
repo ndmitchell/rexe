@@ -4,7 +4,7 @@ On Windows, you can't overwrite a running binary. That means if you are writing 
 
 ## Using `rexe`
 
-If you want to use `rexe` to allow overwriting `ghcid`:
+If you want to use `rexe` to allow overwriting a binary (we'll use `ghcid` as an example):
 
 1. Get a copy of `rexe` from [here](https://github.com/ndmitchell/rexe/releases/download/v1/rexe.exe).
 2. put that copy of `rexe.exe` on your `%PATH%`, before the real `ghcid.exe`.
